@@ -1,0 +1,7 @@
+[2026-11-08T11:54:43Z] === AST ITERATION 1 START | repo=UKPLab/arxiv2026-co-fact-checker sha=00a2dda0 ===
+[2026-11-08T11:54:43Z] [iter=1] PHASE START: ast repo=UKPLab/arxiv2026-co-fact-checker sha=00a2dda0
+[2026-11-08T11:54:43Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T11:54:57Z] [iter=1] AST chunks built count=1 triples=191287
+[2026-11-08T11:54:57Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/00a2dda07d0dd56d5bdd055e046dd74bcb159620/.complete
+[2026-11-08T11:54:57Z] [iter=1] PHASE END: ast elapsed_s=14 elapsed_min=0.2
+[2026-11-08T11:54:57Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
