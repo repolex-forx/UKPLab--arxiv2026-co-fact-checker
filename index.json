@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "arxiv2026-co-fact-checker",
+  "versions": [
+    {
+      "commit": "00a2dda07d0dd56d5bdd055e046dd74bcb159620",
+      "tag": "",
+      "parsed_at": "2026-11-08T11:55:54.852494+00:00"
+    }
+  ]
+}
